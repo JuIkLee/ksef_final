@@ -1,0 +1,22 @@
+project topic
+cataract-classification with two retina datasets
+
+module information
+
+conda/4.12.0 
+requests/2.27.1 
+CPython/3.9.12 
+Windows/10 Windows/10.0.22621
+cv2/4.6.0
+numpy/1.20.3
+pandas/1.5.0
+tensorflow/2.8.0
+keras/2.8.0
+
+opencv
+efficientnet
+tqdm
+opencv
+
+cf)
+datasets 은 크기가 너무 커서 github에 업로드 불가
